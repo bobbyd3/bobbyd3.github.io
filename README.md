@@ -1,6 +1,9 @@
-# bobbyd3.github.io
-blog.jlvision.io
-sysblog
+# blog.jlvision.io
+
+## sysblog
 
 Johrdan Vicstein
-[Keybase](https://keybase.io/bobbyd3)
+- [Keybase](https://keybase.io/bobbyd3)
+- [GitHub](https://github.com/bobbyd3)
+- [Twitter](https://twitter.com/bobbyd3)
+- FreeNode IRC: bobbyd3
